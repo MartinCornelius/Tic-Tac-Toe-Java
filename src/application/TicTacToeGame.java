@@ -21,7 +21,6 @@ public class TicTacToeGame extends Application {
 		launch(args);
 	}
 	
-	
 	Button[][] tiles = new Button[3][3];
 	String player = "X";
 	
